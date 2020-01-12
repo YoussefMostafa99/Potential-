@@ -1,0 +1,18 @@
+D:\youssef\College\CN\Backup\CSharp Test\bin\Debug\CSharp Test.exe
+D:\youssef\College\CN\Backup\CSharp Test\bin\Debug\CSharp Test.pdb
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp Test.csprojAssemblyReference.cache
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp_Test.Form1.resources
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp_Test.Properties.Resources.resources
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp Test.csproj.GenerateResource.cache
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp Test.csproj.CoreCompileInputs.cache
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp Test.exe
+D:\youssef\College\CN\Backup\CSharp Test\obj\Debug\CSharp Test.pdb
+D:\youssef\College\CN\program\CSharp Test\bin\Debug\CSharp Test.exe
+D:\youssef\College\CN\program\CSharp Test\bin\Debug\CSharp Test.pdb
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp Test.csprojAssemblyReference.cache
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp_Test.Form1.resources
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp_Test.Properties.Resources.resources
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp Test.csproj.GenerateResource.cache
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp Test.csproj.CoreCompileInputs.cache
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp Test.exe
+D:\youssef\College\CN\program\CSharp Test\obj\Debug\CSharp Test.pdb
